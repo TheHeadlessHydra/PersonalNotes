@@ -1,4 +1,4 @@
-Lolpaper
+Personal Notes
 ========
 
 These are just notes for myself that help me keep track of the various technological systems I encounter, 
